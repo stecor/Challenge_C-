@@ -1,0 +1,10 @@
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\bin\Debug\InsightTest.exe.config
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\bin\Debug\InsightTest.exe
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\bin\Debug\InsightTest.pdb
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\obj\Debug\InsightTest.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\obj\Debug\InsightTest.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\obj\Debug\InsightTest.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\obj\Debug\InsightTest.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\obj\Debug\InsightTest.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\obj\Debug\InsightTest.exe
+C:\Users\Home\Documents\Visual Studio 2017\Projects\InsightTest\InsightTest\obj\Debug\InsightTest.pdb
